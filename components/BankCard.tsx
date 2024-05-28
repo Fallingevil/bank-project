@@ -52,7 +52,7 @@ const BankCard = ({
         />
       </Link>
 
-      {/* COPY */}
+      {/* COP */}
     </div>
   );
 };
